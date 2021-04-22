@@ -1,1 +1,2 @@
 EXTENSION ABSENT
+init
