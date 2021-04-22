@@ -1,0 +1,18 @@
+  button {
+    button.current {
+    box-shadow: 0 0 0 2px white, 0 0 0 4px black;
+    }
+    color: rgb(12, 15, 12);
+    height: 30px;
+    width: 30px;
+    outline: none;
+    margin: 10px 0 10px 10px;
+    display: block;
+    border: none;
+    border-radius: 2px;
+}
+
+.custom-select {
+  position: relative;
+  font-family: Arial;
+}
